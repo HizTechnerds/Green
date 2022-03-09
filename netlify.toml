@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/commcann-rehoboth"
+  from = "/extra"
   to = "https://widgets.dispenseapp.com/:splat"
   status = 200
   force = false
